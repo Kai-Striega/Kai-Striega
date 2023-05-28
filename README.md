@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Kai-Striega/Kai-Striega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi I'm Kai 👋
+
+I'm a maintainer of SciPy and software developer at BHP who is passionate about free and open source software, scientific computing, and building diverse communities within technology.
+
+## 🔭 I’m currently working on ...
+
+SciPy <img height="20" src="assets/scipy_logo.svg" title="SciPy Logo"/> and NumPy <img height="20" src="assets/numpylogo2.svg" title="NumPy Logo"/>
