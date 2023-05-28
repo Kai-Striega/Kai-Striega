@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 # Hi I'm Kai 👋
 
-I'm a maintainer of SciPy and software developer at BHP who is passionate about free and open source software, scientific computing, and building diverse communities within technology.
+I'm a **maintainer of SciPy** and software developer who is passionate about **free and open source software**, **scientific computing**, and building **diverse communities** within technology.
 
 ## 🔭 I’m currently working on ...
 
-SciPy <img align="center" height="24" src="assets/scipy_logo.svg" title="SciPy Logo"/> and NumPy <img align="center" height="24" src="assets/numpylogo2.svg" title="NumPy Logo"/>
+* SciPy <img align="center" height="24" src="assets/scipy_logo.svg" title="SciPy Logo"/> and NumPy <img align="center" height="24" src="assets/numpylogo2.svg" title="NumPy Logo"/>
