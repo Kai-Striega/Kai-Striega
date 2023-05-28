@@ -20,4 +20,4 @@ I'm a maintainer of SciPy and software developer at BHP who is passionate about 
 
 ## 🔭 I’m currently working on ...
 
-SciPy <img height="20" src="assets/scipy_logo.svg" title="SciPy Logo"/> and NumPy <img height="20" src="assets/numpylogo2.svg" title="NumPy Logo"/>
+SciPy <img height="24" src="assets/scipy_logo.svg" title="SciPy Logo"/> and NumPy <img height="24" src="assets/numpylogo2.svg" title="NumPy Logo"/>
