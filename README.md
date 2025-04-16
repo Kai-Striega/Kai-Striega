@@ -38,4 +38,4 @@ NumPy, SciPy, FOSS and diversity in technology.
 ## 📫 How to reach me: ...
 
 * https://www.linkedin.com/in/kai-striega/
-* kaistriega@gmail.com
+* me [at] kaistriega.com
